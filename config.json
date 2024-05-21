@@ -1,0 +1,7 @@
+{
+    "development": {
+        "llm_model_name": "llama-2-7b-hf"
+    },
+    "testing": {},
+    "production": {}
+}
