@@ -125,7 +125,7 @@ if __name__ == "__main__":
     )
 
     training_params = TrainingArguments(
-        output_dir="../database/fine_tuning",
+        output_dir="../database/fine_tuning/03_06_2024_13_04",
         num_train_epochs=1,
         per_device_train_batch_size=1,
         gradient_accumulation_steps=1,
